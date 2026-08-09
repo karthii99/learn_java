@@ -51,5 +51,6 @@ public class median {
         System.out.println("the median of 2nd array is:"+d.Median(arr2));
         double sum=(d.Median(arr1)) + (d.Median(arr2));
         System.out.println("The median of both the arrays is" +sum/2);
+        System.out.println():
     }
 }
