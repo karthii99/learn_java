@@ -24,7 +24,7 @@ public class solution {
                 }
                 catch (Exception e) {
                     System.out.println(input+"5 can't be fitted anywhere.");
-                    sc.next();
+                    //sc.next();
             }
         }
         
