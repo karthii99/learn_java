@@ -7,7 +7,7 @@ class Student {
 public class arrobj {
     public static void main(String[] args) {
 
-        Student[] students = new Student[3];
+        Student[] students = new Student[3];//it creates an arr to store the object reference
 
         students[0] = new Student();
         students[1] = new Student();
